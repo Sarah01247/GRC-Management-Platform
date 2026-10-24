@@ -112,9 +112,27 @@ Currently supports:
 
 
 
-\## Screenshots
+## 📸 Screenshots
 
+### Dashboard
+![Dashboard](screenshots/dashboard.png)
 
+---
 
-(Add screenshots here)
+### Swagger API
+![Swagger API](screenshots/swagger1.png)
+
+![Swagger API](screenshots/swagger2.png)
+
+---
+
+### PDF Security Assessment Report
+![PDF Report](screenshots/pdf-report1.png)
+
+![PDF Report](screenshots/pdf-report2.png)
+
+---
+
+### Excel Security Report
+![Excel Report](screenshots/excel-report.png)
 
